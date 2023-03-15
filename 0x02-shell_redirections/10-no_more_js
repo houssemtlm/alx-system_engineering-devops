@@ -1,2 +1,2 @@
 #!/bin/bash
-find ./GFC -type f -name "*.js" -exec rm "{}" \;
+find ./GFC -type f -name *.js -exec rm "{}" \;
